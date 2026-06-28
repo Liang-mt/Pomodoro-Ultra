@@ -7,13 +7,7 @@
 
 ## 📹 演示视频
 
-<<<<<<< HEAD
-https://github.com/Liang-mt/Pomodoro-Ultra/assets/6f9315e123f29d977f90e85fcb8d1e0c2a12e9ac
-=======
-
-
-
->>>>>>> 6f9315e123f29d977f90e85fcb8d1e0c2a12e9ac
+https://github.com/Liang-mt/Pomodoro-Ultra/blob/a4b2740f109359aca750cd58a9cc4b9d9c927078/20260628_071248.mp4
 
 ## ✨ 功能特性
 
